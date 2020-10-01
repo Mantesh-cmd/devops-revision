@@ -2,5 +2,5 @@ def add(x,y):
     return x+y
 add(1,2)
 
-a = lambda(x,y:x+y)
-print(a(12,20))
+b = lambda(x,y:x+y)
+print(b(12,20))
